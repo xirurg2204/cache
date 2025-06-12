@@ -1,1 +1,1 @@
-# go-cache
+# GO in memory cache
