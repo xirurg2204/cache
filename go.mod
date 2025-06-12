@@ -1,3 +1,3 @@
-module github.com/XirurG2204/cache
+module github.com/xirurg2204/cache
 
 go 1.19
